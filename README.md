@@ -1,1 +1,1 @@
-[Data Analysis](new_york_property_analysis.pdf)
+[Visuals for Data Analysis](new_york_property_analysis.pdf)
